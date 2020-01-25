@@ -10,7 +10,7 @@ export default function App() {
     <div>
       <Header />
       <Home />
-      <h1>My Web site 1 </h1>
+      <h1>My Web site </h1>
       <Footer />
     </div>
   );
